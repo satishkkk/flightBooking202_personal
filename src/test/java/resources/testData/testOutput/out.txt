@@ -1,0 +1,3 @@
+Please enter correct booking details for kam : Invalid flightNumber
+Please enter correct booking details for mam : Available seat is 3 requested 122
+Please enter correct booking details for pam : Invalid CardNumber

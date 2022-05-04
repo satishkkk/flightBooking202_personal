@@ -1,0 +1,2 @@
+Please enter correct booking details for John : Invalid flightNumber
+Please enter correct booking details for Sierra : Invalid CardNumber
